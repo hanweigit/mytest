@@ -6,4 +6,5 @@ public class Test
 {
     List list;
     PageInfo pageInfo=new PageInfo<>(list);
+    String  str="hello";
 }
